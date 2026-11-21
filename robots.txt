@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://me-sachinsingh.github.io/sitemap.xml
